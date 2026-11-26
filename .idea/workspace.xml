@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7567e1db-a7c1-4c99-a02a-997d00de2c65" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Kyrs78.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/data_sources_history.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f16595fd-46e8-47e8-b55f-4bd0d48a01e3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f16595fd-46e8-47e8-b55f-4bd0d48a01e3/storage_v2/_src_/database/c2c_risk_db.w6wJdg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f16595fd-46e8-47e8-b55f-4bd0d48a01e3/storage_v2/_src_/database/c2c_risk_db.w6wJdg/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f16595fd-46e8-47e8-b55f-4bd0d48a01e3/storage_v2/_src_/database/c2c_risk_db.w6wJdg/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f16595fd-46e8-47e8-b55f-4bd0d48a01e3/storage_v2/_src_/database/c2c_risk_db.w6wJdg/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/listings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/listings/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/listings/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/listings/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/listings/migrations/0002_listing_image_url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/listings/migrations/0003_listing_city_riskassessment_inference_time_ms_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/listings/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/listings/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/listings/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/listings/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/ml_analyzer/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/ml_analyzer/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/ml_analyzer/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/ml_analyzer/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/ml_analyzer/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/ml_analyzer/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/ml_analyzer/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/scraper/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/scraper/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/scraper/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/scraper/management/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/scraper/management/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/scraper/management/commands/run_avby.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/scraper/management/commands/run_kufar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/scraper/management/commands/run_onliner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/scraper/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/scraper/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/scraper/services/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/scraper/services/av_by.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/scraper/services/kufar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/scraper/services/onliner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/scraper/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/scraper/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/scraper/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_av.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_kufar.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="f16595fd-46e8-47e8-b55f-4bd0d48a01e3" value="" />
+    </colors>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Docker Compose" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "drenight463-ctrl"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/OsipchukAV/AI_C2C_Analyzer",
+    "accountId": "ce24159d-e4e0-48c0-bc09-78e9c7a2221b"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MTj6igpibygEHpMmpzOl0Tkg7R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
+    ]
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7567e1db-a7c1-4c99-a02a-997d00de2c65" name="Changes" comment="" />
+      <created>1795381277920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795381277920</updated>
+      <workItem from="1795381278938" duration="8895000" />
+      <workItem from="1795682686072" duration="638000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
